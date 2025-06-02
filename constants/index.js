@@ -9,16 +9,16 @@ export const MenuOptions = [
     {
         title: "Discover",
         icon: Compass,
-        path: "/"
+        path: "/discover"
     },
     {
         title: "Library",
         icon: GalleryHorizontalEnd,
-        path: "/"
+        path: "/library"
     },
     {
         title: "Sign-in",
         icon: LogIn,
-        path: "/"
+        path: "#"
     },
 ]
